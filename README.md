@@ -1,6 +1,7 @@
 # Security+ Certificate
 
-[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/19643128/CompTIA.Security%2B.ce.certificate.pdf)
+![Screenshot_8-4-2025_214_](https://github.com/user-attachments/assets/41daadd2-d51c-4382-a331-885b817c11ab)
+
 
 
 ## CompTIA Security+  
